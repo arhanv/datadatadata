@@ -1,2 +1,2 @@
 # datadatadata
-data analysis, machine learning, and data engineering projects
+organizing my data analysis, machine learning, and data engineering projects
